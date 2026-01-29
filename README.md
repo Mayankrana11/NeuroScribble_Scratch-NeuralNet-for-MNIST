@@ -1,0 +1,1 @@
+neural net from scratch in python on MNIST data set of 60000 images of handdrawn numbers from 0-9
